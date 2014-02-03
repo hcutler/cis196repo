@@ -8,3 +8,21 @@ Homework 1:
 -created a homepage (see link above)
 -stored code on GitHub and deployed on Heroku
 -did not have any major issues
+
+
+Homework 2:
+2/3/14
+
+-Project ideas
+(*names subject to change*)
+
+1) EventConnect
+    This weekend, I will be participating in Google 24HoursofGood Hackathon, where teams of college students are paired with non-profits and help them with a tech related project.  This is an opportunity for me to (1) get together with some of my friends and participate in a cool opportunity (2) go to New York City to Google's offices (3) help a non-profit organization (4) test my computer science skills and (5) participate in my first hackathon.  I would not have known about this opportunity had I not attended one of the Google TechTalks and placed myself on the listserv at the beginning of the school year.  I only knew about the tech talk because I spotted a small flyer on a bulletin boards outside the room where office hours for one of my classes were being held.  Had I not made an effort to attend office hours, I wouldn't have gone to the Google event, and likely wouldn't know about the upcoming hackathon.	Inspired by this anecdote -- and interesting sequence of events -- I would like to create an app that connects people with speaking events and interesting opportunities near them -- somewhat analogous to what DiningIn and Urban Spoon do with food, and Moviefone with finding showtimes, and AmTrak with train departures.   As a UPenn student, it has been my experience that I have to scan multiple different sites, some unaffiliated with the others (i.e. Wharton events page, Engineering events page, e-mails, Facebook, etc.) to find out about upcoming events.  Many of my friends are so busy, understandably so, but as a result often do not know about what is even happening.  Some of them do not know where to look, others don't know such information is even readily available to them.  For example, Malcolm Gladwell lectured at Penn in the fall, and I only knew about the vent because I subscribed over the summer, as per the recommendation of one of my teachers at my high school, to the Knowledge@Wharton and Authors@Wharton e-mail listservs.  I would like to help match people with opportunities like this because I think that stimulating opportunities to connect, grow and learn often expose people to things they didn't even know knew they were interested in.
+
+2) Life Calculator
+	I constantly open and modify sticky notes on my computer to keep track of things I need to do, appointments, etc.  I, like many people, work best when I have a schedule and know exactly what I should be working on at the moment and what I need to accomplish next.  In college, where I am not sitting in class from 8:30am-3pm, and my schedule isn't mapped out in a set fashion, to the degree it was when I was in high school, I have found it can be very hard to know how to break up and allocate my time most efficiently -- what work to do when, what office hours to go to on a given day, etc. I would like to create an app where you can input all upcoming assignments (perhaps, have it connect to Penn Canvas and the relevant/associated course sites, and perhaps Google calendars as well), and formulaically time out, based on due dates, office hour times, location of classes, etc.) what is the most efficient order in which to complete assignments, when you should go to which office hours to minimize travel time/time spent walking around campus form place to place, so that you are wisest with time management and getting work done.  In theory, the app could also be connected to a location service app such as Foursquare or the built in service on iPhones to allow people to see where their friends are to organize study group sessions accordingly (with links to reserve Group Study Rooms (GSR's) in Huntsman Hall, and booths in Van Pelt Library.
+
+3) College Prep 2.0
+    In high school, the emphasis seems to be on getting into college, but what about once you're in?  To be honest, I feel like I was prepared for the madness of the college application process, but there was little emphasis placed on what to do to make sure you're as well-prepared as possible in terms of taking courses that will give you an edge and position you to do as best as possible in your classes as you are trying to adjust to life as a college student.
+
+
